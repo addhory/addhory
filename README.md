@@ -102,16 +102,9 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31q452katokaesrhgu7i3ks5treq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
 <br/>  
-xw
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=addhory&&style=flat-square" align="center" />
 </div>  
 
 
-<br/>
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
