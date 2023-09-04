@@ -1,7 +1,7 @@
 
 
 ### Hi, there 👋  
-### <div align="center">I'm Ridho, a full-stack developer 👨‍💻 </div>  
+### <div align="">I'm Ridho, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [tiket.com](https://tiket.com/)  
