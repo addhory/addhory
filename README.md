@@ -90,7 +90,7 @@
 ## Github work account
 
 <ol>
-<li><a href="https://github.com/ridhoans" target="_blank">
+<li><p>Tiket.com Github -> </p><a href="https://github.com/ridhoans" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a></li>
 </ol>
