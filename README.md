@@ -89,7 +89,7 @@
 
 ## Github work account
 
-- [Ridho Anshory : tiket.com](https://github.com/addhory)
+- [Ridho Anshory : tiket.com](https://github.com/ridhoans)
 
 <br/>
 
