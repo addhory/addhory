@@ -97,11 +97,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JSX Element, React Node, React Element](https://bizarro.dev.to/ridhoanshory/jsx-element-react-node-react-element-idi)
-- [Git Basic Commands](https://bizarro.dev.to/ridhoanshory/git-basic-commands-6ee)
-- [Interface vs Type in Typescript](https://bizarro.dev.to/ridhoanshory/interface-vs-type-in-typescript-4ca0)
-- [UI Components: How to make Outline Gradient Button with Transparent Background🤷‍♂️](https://bizarro.dev.to/ridhoanshory/ui-components-how-to-make-outlined-gradient-button-with-transparent-background-ca0)
-- [Next.JS + MUI v5 + TypeScript + Scss + Storybook Starter 📕](https://bizarro.dev.to/ridhoanshory/nextjs-mui-v5-typescript-scss-storybook-starter-4370)
+- [JSX Element, React Node, React Element](https://dev.to/ridhoanshory/jsx-element-react-node-react-element-idi)
+- [Git Basic Commands](https://dev.to/ridhoanshory/git-basic-commands-6ee)
+- [Interface vs Type in Typescript](https://dev.to/ridhoanshory/interface-vs-type-in-typescript-4ca0)
+- [UI Components: How to make Outline Gradient Button with Transparent Background🤷‍♂️](https://dev.to/ridhoanshory/ui-components-how-to-make-outlined-gradient-button-with-transparent-background-ca0)
+- [Next.JS + MUI v5 + TypeScript + Scss + Storybook Starter 📕](https://dev.to/ridhoanshory/nextjs-mui-v5-typescript-scss-storybook-starter-4370)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
